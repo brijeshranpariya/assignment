@@ -1,0 +1,5 @@
+@media only screen and (max-width: 1000px) {
+    .navbg {
+        background-color: rgb(103,103,254); /* Specify the color directly */
+    }
+}

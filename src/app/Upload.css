@@ -1,0 +1,14 @@
+#drop-area{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 450px;
+    height: 150px;
+    /* padding: 30px; */
+    background: white;
+    text-align: center;
+    border-radius: 20px;
+}
+.btn{
+    background-color: rgb(103,103,254);
+}
